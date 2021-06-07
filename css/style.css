@@ -27,7 +27,8 @@
     font-weight: bold;
  }
 
- h2 {
+ .subSkills{
+    font-size: 55px;
  }
 
  h5 {
@@ -138,6 +139,10 @@
 .section-image p {
     font-weight: lighter;
     opacity: 0.9;
+}
+
+.row .caja{
+    margin-top: 25px;
 }
 
 
